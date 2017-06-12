@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Image_Gallery</string>
+    <string name="title_activity_my_refresh_list_view">MyRefreshListViewActivity</string>
+    <string name="title_activity_my_swipe_list_adapter">MySwipeListAdapter</string>
+    <string name="title_activity_resize_image">ResizeImageActivity</string>
+    <string name="title_activity_image_view">ImageViewActivity</string>
+    <string name="alert_internet_access">No Internet Access!\nOpen Your Mobile network</string>
+</resources>
